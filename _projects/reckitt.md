@@ -1,6 +1,6 @@
 ---
 layout: page
-title: UNSW DigiSoc x Reckitt Case Competition
+title: UNSW DigiSoc + Reckitt Case Competition
 description: Received 2nd place for enhancing the omnichannel shopping experience through tangible rewards and analysing digital trends.
 img: assets/img/reckitt/thumbnail.jpg
 importance: 3
