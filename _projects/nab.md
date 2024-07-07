@@ -1,10 +1,10 @@
 ---
 layout: page
 title: UNSW WIT x NAB Case Competition
-description: Received 1st place for presenting a solution to empower NAB customers to be more sustainable. (July 2023)
+description: Received 1st place for presenting a solution to empower NAB customers to be more sustainable through gamification elements.
 img: assets/img/nab/thumbnail.webp
 importance: 2
-category: work
+category: competitions
 ---
 ### Overview
 

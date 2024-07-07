@@ -1,10 +1,10 @@
 ---
 layout: page
 title: UNSW Illuminate Website Redesign
-description: A redesign of UNSW Illuminate's website with my own contributions as a project member. (December 2022 - December 2023)
-img: assets/img/illuminate/illuminate.png
+description: A redesign of UNSW Illuminate's website using Gatsby and React with a focus on dynamic elements to emphasise our unique identity.
+img: assets/img/illuminate_website/illuminate.png
 importance: 4
-category: work
+category: projects
 ---
 
 
@@ -20,7 +20,7 @@ Our preparation began with a series of upskilling exercises provided by our team
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/illuminate/upskilling.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/illuminate_website/upskilling.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -33,10 +33,10 @@ The drafting phase was collaborative. We shared ideas, created design sketches, 
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/illuminate/minddump.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/illuminate_website/minddump.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-4 mt-md-0">
-        {% include figure.liquid path="assets/img/illuminate/figma.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/illuminate_website/figma.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -49,7 +49,7 @@ Our development process was structured around weekly tasks, with team members pa
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/illuminate/figma2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/illuminate_website/figma2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -61,7 +61,7 @@ By the end of Term 2, we had finalized the designs for all the required pages. T
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/illuminate/illuminate.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/illuminate_website/illuminate.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

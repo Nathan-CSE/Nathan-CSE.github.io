@@ -1,10 +1,10 @@
 ---
 layout: page
 title: UNSW AIS Website Redesign
-description: A redesign of the UNSW AIS website by a team led by me to enhance digital presence. (December 2023 - December 2024) 
+description: A redesign of the club's website to emphasise a renewed student-centric identity with responsive elements. 
 img: assets/img/ais/thumbnails.png
-importance: 1
-category: work
+importance: 4
+category: projects
 ---
 
 ### Joining the Team and Initial Expectations

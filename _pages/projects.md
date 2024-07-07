@@ -5,7 +5,7 @@ permalink: /projects/
 description: My past projects and achievements.
 nav: true
 nav_order: 3
-display_categories: [work]
+display_categories: [projects, competitions]
 horizontal: false
 ---
 
