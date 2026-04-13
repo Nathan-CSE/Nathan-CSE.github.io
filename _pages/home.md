@@ -16,16 +16,8 @@ latest_posts: false # includes a list of the newest posts
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Nathan, a Computer Science student at the University of New South Wales and I'm thrilled to share a bit about myself with you.
+I'm Nathan, a software engineer based in Sydney. I build backend systems, real-time infrastructure, and the occasional side-project whenever it interests me.
 
-As an aspiring software developer, I'm keen on exploring different aspects of the industry outside of the university environment. Throughout my time at UNSW, I've had the privilege of being involved in numerous societies and assisting in the internal goings - currently I am involved in: 
-* **UNSW Illuminate**: As the Software Lead, I lead a small team to work on various projects that combine art and technology. 
-<div />
-* **Sunswift Racing**: As a Telemetry Systems Engineer, I manage the real-time telemetry data from the vehicle through AWS services such as Grafana and Greengrass. 
-<div />
-* **UNSW Alternative Investment Society**: As the Vice President of Operations, I manage a team of 5 directors and their respective subcommittees across IT and Marketing. I also assist with the internal operations of the society.
-<div />
+I've spent the last few years working across production engineering teams, embedded systems, and large interdisciplinary projects - from shipping features at [SafetyCulture](https://www.linkedin.com/posts/nathan-aus_over-the-past-10-weeks-i-had-the-incredible-ugcPost-7298576524536856577-xXln?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADaBjroBn_RE3gA_IdoCWFjyLLt7BXbhBto) to owning a real-time telemetry pipeline at [Sunswift Racing](https://www.linkedin.com/posts/nathan-aus_a-few-weeks-ago-i-had-the-opportunity-to-activity-7256462183218176000-bj3z?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADaBjroBn_RE3gA_IdoCWFjyLLt7BXbhBto) for our international competition. I’ve also led a 22-person team to build and deliver a physical-digital exhibit to thousands of visitors at [UNSW’s Museum of Human Disease.](https://www.linkedin.com/posts/nathan-aus_after-a-year-of-development-im-incredibly-activity-7391255366325604352-AeXi?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADaBjroBn_RE3gA_IdoCWFjyLLt7BXbhBto)
 
 When I'm not immersed in work or learning, you can often find me with my camera working on my photography projects, playing tennis or hanging out with friends.
-
-Thank you for visiting, and I look forward to connecting with you!
